@@ -2,7 +2,7 @@ import streamlit as st
 from initialization import initialize_llm_vertex
 
 REGIONS=["us-central1"]
-MODEL_NAMES=['gemini-2.0-flash-001','gemini-2.0-flash-lite-001','gemini-2.0-pro-exp-02-05']
+MODEL_NAMES=['gemini-2.0-flash-001','gemini-2.0-flash-lite-001']
 
 def get_project_id():
     return "landing-zone-demo-341118"
