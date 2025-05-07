@@ -21,7 +21,7 @@
 # --- Configuration Variables ---
 
 # Replace with your Google Cloud Project ID
-PROJECT_ID="landing-zone-demo-341118"
+PROJECT_ID="Your Project ID Goes Here"
 
 # Replace with your desired Google Cloud region
 REGION="me-west1"
@@ -36,7 +36,7 @@ IMAGE_NAME="gemini101"
 SERVICE_NAME="gemini101"
 
 # Replace with your desired Cloud Run service account
-SERVICE_ACCOUNT_EMAIL="experts-hub-demo@landing-zone-demo-341118.iam.gserviceaccount.com"
+SERVICE_ACCOUNT_EMAIL="Your Service Account Email Goes Here" # format should be similar to "<Name>@<Project ID>.gserviceaccount.com"
 
 # --- Script Start ---
 
